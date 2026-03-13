@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=rasmitha-chinthalapally&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasmitha-chinthalapally)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasmitha-chinthalapally)
+![Profile Views](https://komarev.com/ghpvc/?username=Rasmitha06&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasmithach03)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rasmitha06)
 
 </div>
 
@@ -82,13 +82,13 @@ class Rasmitha:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasmitha-chinthalapally&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasmitha-chinthalapally&layout=compact&langs_count=8&theme=radical&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rasmitha06&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasmitha06&layout=compact&langs_count=8&theme=radical&border_radius=12"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasmitha-chinthalapally&theme=radical&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmitha06&theme=radical&border_radius=12" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ class Rasmitha:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasmitha-chinthalapally&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rasmitha06&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ---
@@ -105,8 +105,8 @@ class Rasmitha:
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=rasmitha-chinthalapally&repo=your-ml-project&theme=radical&border_radius=12)](https://github.com/rasmitha-chinthalapally)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=rasmitha-chinthalapally&repo=your-data-project&theme=radical&border_radius=12)](https://github.com/rasmitha-chinthalapally)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=your-ml-project&theme=radical&border_radius=12)](https://github.com/Rasmitha06)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=your-data-project&theme=radical&border_radius=12)](https://github.com/Rasmitha06)
 
 </div>
 
@@ -124,7 +124,7 @@ class Rasmitha:
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasmitha-chinthalapally&theme=redical&bg_color=0d1117&color=FF6B6B&line=FFC300&point=56CCF2&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasmitha06&theme=redical&bg_color=0d1117&color=FF6B6B&line=FFC300&point=56CCF2&area=true&hide_border=true" />
 </div>
 
 ---
