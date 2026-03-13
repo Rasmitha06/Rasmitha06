@@ -119,18 +119,11 @@ class Rasmitha:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmitha06&theme=transparent&hide_border=true&ring_color=302b63&fire_color=6b6b8a&currStreakLabel=6b6b8a&sideLabels=6b6b8a&sideNums=6b6b8a&currStreakNum=6b6b8a&dates=6b6b8a alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasmitha06&theme=transparent&hide_border=true&ring_color=302b63&fire_color=6b6b8a&currStreakLabel=6b6b8a&sideLabels=6b6b8a&sideNums=6b6b8a&currStreakNum=6b6b8a&dates=6b6b8a" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rasmitha06&theme=flat&no-frame=true&no-bg=true&title_color=6b6b8a&text_color=6b6b8a&icon_color=302b63&margin-w=4&row=1"/>
-</div>
-
----
 
 ## 🔥 Featured Projects
 
