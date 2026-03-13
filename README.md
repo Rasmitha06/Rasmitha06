@@ -39,43 +39,60 @@ class Rasmitha:
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML / Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-20232a?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-20232a?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-20232a?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-20232a?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-20232a?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-20232a?style=flat-square&logo=opencv&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
 </p>
 
 ### 📊 Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-20232a?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-20232a?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-20232a?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-20232a?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-20232a?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-20232a?style=flat-square&logo=tableau&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+ &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & MLOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-20232a?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-20232a?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-20232a?style=flat-square&logo=mlflow&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-20232a?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-20232a?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
-
 ---
 
 ## 📈 GitHub Stats
