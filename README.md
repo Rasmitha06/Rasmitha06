@@ -132,6 +132,8 @@ class Rasmitha:
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=Realtime-SignLanguage-Interpretation-project-&theme=transparent&title_color=6b6b8a&text_color=6b6b8a&icon_color=6b6b8a&border_radius=12)](https://github.com/Rasmitha06/Realtime-SignLanguage-Interpretation-project-)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=Malicious_URL_Detection&theme=transparent&title_color=6b6b8a&text_color=6b6b8a&icon_color=6b6b8a&border_radius=12)](https://github.com/Rasmitha06/Malicious_URL_Detection)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=Sentic-CNN-Audio&theme=transparent&title_color=6b6b8a&text_color=6b6b8a&icon_color=6b6b8a&border_radius=12)](https://github.com/Rasmitha06/Sentic-CNN-Audio)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasmitha06&repo=Suspicious-Activity-Detection&theme=transparent&title_color=6b6b8a&text_color=6b6b8a&icon_color=6b6b8a&border_radius=12)](https://github.com/Rasmitha06/Suspicious-Activity-Detection)
 </div>
 
 ---
