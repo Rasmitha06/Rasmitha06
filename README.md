@@ -144,7 +144,7 @@ CNN-based emotion recognition workflow using **MFCC, chroma, and mel-spectrogram
 | Organization | Role | Period |
 |---|---|---|
 | **University of South Florida** | Student Assistant — ML Evaluation · Dataset Automation | Jan 2025 – May 2026 |
-| **Development Internship** | Front-End Developer Intern — UI · REST APIs · Git · Agile Collaboration | Dec 2023 - May 2024 |
+| **Development Internship** | Front-End Developer Intern — UI · REST APIs · Git · Agile Collaboration | Sep 2023 - Feb 2024 |
 | **MRECW** | Research Assistant — Machine Learning · Data Projects · Model Evaluation | Feb 2023 - Nov 2023 |
 | **MRECW** | Data Analyst Support — Reporting · Dashboards · Data Handling | May 2022 - Jan 2023 |
 
@@ -154,8 +154,8 @@ CNN-based emotion recognition workflow using **MFCC, chroma, and mel-spectrogram
 
 | Degree | Institution | GPA |
 |---|---|---|
-| **M.S. Computer Science** | University of South Florida | **3.89 / 4.0** |
-| **B.Tech. Computer Science** | Malla Reddy Engineering College for Women (MRECW) | **9.22 / 10** |
+| **M.S. Computer Science** | University of South Florida | **3.86 / 4.0** |
+| **B.Tech. Computer Science** | Malla Reddy Engineering College for Women (MRECW) | **9.6 / 10** |
 
 ---
 
